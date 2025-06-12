@@ -13,6 +13,7 @@ module.exports = {
 				success: '#0070f3',
 				cyan: '#79FFE1',
 				primary: colors.blue,
+				cwxnavy: '#121426'
 			},
 			typography: () => ({
 				DEFAULT: {
